@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with W3Schools
 - 💬 Ask me about my family
 - 📫 How to reach me: @sergiooramos_05 on Instagram
-- ⚡ Fun fact: I like playing videogames
+- 😇 Fun fact: I like playing videogames
