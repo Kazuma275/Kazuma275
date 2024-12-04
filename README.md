@@ -9,6 +9,6 @@
 - 📫 How to reach me: @sergiooramos_05 on Instagram
 - 😇 Fun fact: I like playing videogames
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Kazuma275&show_icons=true&locale=en&layout=compact"></a>
+<p><a href="https://github-readme-stats.vercel.app/api/top-langs?username=Kazuma275&show_icons=true&locale=en&layout=compact"></a></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kazuma275" alt="GitHub Streak" /></a>
