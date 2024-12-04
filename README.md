@@ -9,6 +9,19 @@
 - 📫 How to reach me: @sergiooramos_05 on Instagram
 - 😇 Fun fact: I like playing videogames
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kazuma275&show_icons=true&locale=en&layout=compact" alt="Github Stats" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kazuma275&show_icons=true&locale=en" alt="Github Stats"/></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kazuma275" alt="GitHub Streak" /></a>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kazuma275&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 400px; height: 200px;" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kazuma275&show_icons=true&locale=en" alt="GitHub Stats" style="width: 400px; height: 200px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazuma275" alt="GitHub Streak" style="width: 800px; height: 200px;" />
+    </td>
+  </tr>
+</table>
+
