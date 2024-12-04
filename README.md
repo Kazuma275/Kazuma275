@@ -10,5 +10,5 @@
 - 😇 Fun fact: I like playing videogames
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=kazuma275" alt="Github Stats"></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kazuma275&show_icons=true&locale=en" alt="Github Stats"/></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kazuma275" alt="GitHub Streak" /></a>
