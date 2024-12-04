@@ -19,9 +19,10 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazuma275" alt="GitHub Streak" style="width: 800px; height: 200px;" />
     </td>
   </tr>
 </table>
+
 
