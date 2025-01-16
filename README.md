@@ -1,16 +1,16 @@
-# Hi there 👋 I'm Kazuma275!
+# Hi there 👋, I'm Kazuma275!
 
-Welcome to my profile! I'm passionate about coding, technology, and collaborating with talented individuals.
+Welcome to my GitHub profile! I'm passionate about coding, technology, and collaborating with talented individuals. Here you'll find information about me, my skills, and my projects.
 
 ## 📝 About Me
 
 - 🥰 Taken by an amazing girl
-- 🔭 I’m currently working on my shoe shop
-- 🌱 I’m currently learning Java and HTML 5
-- 👯 I’m looking to collaborate with Post Malone
-- 🤔 I’m looking for help with W3Schools
+- 🔭 Currently working on my shoe shop
+- 🌱 Learning Java and HTML 5
+- 👯 Looking to collaborate with Post Malone
+- 🤔 Seeking help with W3Schools
 - 💬 Ask me about my family
-- 📫 How to reach me: [@sergiooramos_05](https://instagram.com/sergiooramos_05) on Instagram
+- 📫 Reach me at: [@sergiooramos_05](https://instagram.com/sergiooramos_05) on Instagram
 - 😇 Fun fact: I like playing video games
 
 ## 🛠️ Technologies & Tools
@@ -40,10 +40,24 @@ Welcome to my profile! I'm passionate about coding, technology, and collaboratin
   </tr>
 </table>
 
+## 🌟 Projects
+
+### [Project Name](https://github.com/Kazuma275/Project-Name)
+- Description: Brief description of what the project is about.
+- Technologies Used: `Java`, `HTML5`, `CSS3`, `JavaScript`
+- [Live Demo](https://project-live-demo.com) | [Read More](https://github.com/Kazuma275/Project-Name)
+
+### [Another Project](https://github.com/Kazuma275/Another-Project)
+- Description: Brief description of what the project is about.
+- Technologies Used: `Python`, `Django`, `React`
+- [Live Demo](https://another-project-live-demo.com) | [Read More](https://github.com/Kazuma275/Another-Project)
+
 ## 📫 Contact Me
 
 - Instagram: [@sergiooramos_05](https://instagram.com/sergiooramos_05)
 - Email: [sergiooramos_05@example.com](mailto:sergiooramos_05@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
 ## 🎮 Fun Facts
 
