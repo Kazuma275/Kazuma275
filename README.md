@@ -21,6 +21,12 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -42,10 +48,10 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
 
 ## 🌟 Projects
 
-### [Project Name](https://github.com/Kazuma275/Project-Name)
-- Description: Brief description of what the project is about.
+### [Rayito de sol](https://github.com/Kazuma275/Rayito-de-sol)
+- Description: A project focused on [brief description of the project's purpose or functionality].
 - Technologies Used: `Java`, `HTML5`, `CSS3`, `JavaScript`
-- [Live Demo](https://project-live-demo.com) | [Read More](https://github.com/Kazuma275/Project-Name)
+- [Live Demo](https://rayito-de-sol-live-demo.com) | [Read More](https://github.com/Kazuma275/Rayito-de-sol)
 
 ### [Another Project](https://github.com/Kazuma275/Another-Project)
 - Description: Brief description of what the project is about.
@@ -71,6 +77,12 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
 - HTML 5
 - CSS3
 - JavaScript
+- Vue.js
+- Storybook
+- Angular
+- TypeScript
+- PHP
+- Python
 
 ## 👥 Collaboration
 
