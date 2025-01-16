@@ -1,46 +1,27 @@
-Creating a profile README for your GitHub profile is a great way to showcase your skills, projects, and interests. Here's an example that you can use as a template:
+### Hi there 👋
 
-```markdown
-# Hi there, I'm Kazuma275 👋
+- 🥰 Taken by an amazing girl
+- 🔭 I’m currently working on my shoe shop
+- 🌱 I’m currently learning Java and HTML 5
+- 👯 I’m looking to collaborate with Post Malone
+- 🤔 I’m looking for help with W3Schools
+- 💬 Ask me about my family
+- 📫 How to reach me: @sergiooramos_05 on Instagram
+- 😇 Fun fact: I like playing videogames
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kazuma275&color=blue)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kazuma275&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 400px; height: 200px;" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kazuma275&show_icons=true&locale=en" alt="GitHub Stats" style="width: 400px; height: 200px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazuma275" alt="GitHub Streak" style="width: 800px; height: 200px;" />
+    </td>
+  </tr>
+</table>
 
-## About Me
-
-- 👨‍💻 Passionate about software development and open source.
-- 🌐 I love working on web development and cloud technologies.
-- 📚 Always eager to learn new things and improve my skills.
-
-## Skills
-
-- **Languages**: Python, JavaScript, TypeScript, Java, C++
-- **Frameworks and Libraries**: React, Node.js, Express, Django, Flask
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools and Platforms**: Git, Docker, Kubernetes, AWS, Azure
-
-## Projects
-
-### [Project Name](https://github.com/Kazuma275/project-name)
-**Description**: A brief description of the project and its purpose.
-
-### [Another Project](https://github.com/Kazuma275/another-project)
-**Description**: A brief description of the project and its purpose.
-
-## GitHub Stats
-
-![Kazuma275's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kazuma275&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuma275&layout=compact&theme=radical)
-
-## Contributions
-
-![Kazuma275's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kazuma275&theme=rogue)
-
----
-
-⭐️ From [Kazuma275](https://github.com/Kazuma275)
-```
-
-Feel free to customize the sections with your own information, projects, and contact details. This README will appear on your GitHub profile page and give visitors a great overview of who you are and what you do!
