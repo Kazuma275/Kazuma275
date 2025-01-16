@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
 
 ## 🌟 Projects
 
-### [Rayito de sol](https://github.com/Kazuma275/Rayito-de-Sol)
+### [Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)
 - Description: A project focused on [brief description of the project's purpose or functionality].
 - Technologies Used: `PHP`, `HTML5`, `CSS3`, `JavaScript`
 - [Live Demo](https://rayito-de-sol-live-demo.com) | [Read More](https://github.com/Kazuma275/Rayito-de-Sol)
@@ -87,6 +87,4 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
 
