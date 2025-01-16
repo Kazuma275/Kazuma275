@@ -48,22 +48,15 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
 
 ## 🌟 Projects
 
-### [Rayito de sol](https://github.com/Kazuma275/Rayito-de-sol)
+### [Rayito de sol](https://github.com/Kazuma275/Rayito-de-Sol)
 - Description: A project focused on [brief description of the project's purpose or functionality].
-- Technologies Used: `Java`, `HTML5`, `CSS3`, `JavaScript`
-- [Live Demo](https://rayito-de-sol-live-demo.com) | [Read More](https://github.com/Kazuma275/Rayito-de-sol)
-
-### [Another Project](https://github.com/Kazuma275/Another-Project)
-- Description: Brief description of what the project is about.
-- Technologies Used: `Python`, `Django`, `React`
-- [Live Demo](https://another-project-live-demo.com) | [Read More](https://github.com/Kazuma275/Another-Project)
+- Technologies Used: `PHP`, `HTML5`, `CSS3`, `JavaScript`
+- [Live Demo](https://rayito-de-sol-live-demo.com) | [Read More](https://github.com/Kazuma275/Rayito-de-Sol)
 
 ## 📫 Contact Me
 
 - Instagram: [@sergiooramos_05](https://instagram.com/sergiooramos_05)
-- Email: [sergiooramos_05@example.com](mailto:sergiooramos_05@example.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
 ## 🎮 Fun Facts
 
@@ -73,9 +66,6 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
 
 ## 💡 Current Learning
 
-- Java
-- HTML 5
-- CSS3
 - JavaScript
 - Vue.js
 - Storybook
