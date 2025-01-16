@@ -44,6 +44,11 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazuma275" alt="GitHub Streak" style="width: 800px; height: 200px;" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Kazuma275" alt="GitHub Trophies" style="width: 800px; height: 200px;" />
+    </td>
+  </tr>
 </table>
 
 ## 🌟 Projects
