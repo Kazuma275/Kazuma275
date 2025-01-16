@@ -1,5 +1,9 @@
 # Hi there 👋 I'm Kazuma275!
 
+Welcome to my profile! I'm passionate about coding, technology, and collaborating with talented individuals.
+
+## 📝 About Me
+
 - 🥰 Taken by an amazing girl
 - 🔭 I’m currently working on my shoe shop
 - 🌱 I’m currently learning Java and HTML 5
@@ -13,7 +17,10 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<!-- Add more badges for other technologies you are familiar with -->
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -36,25 +43,34 @@
 ## 📫 Contact Me
 
 - Instagram: [@sergiooramos_05](https://instagram.com/sergiooramos_05)
-<!-- Add more contact methods if you have them -->
+- Email: [sergiooramos_05@example.com](mailto:sergiooramos_05@example.com)
 
 ## 🎮 Fun Facts
 
 - I like playing video games
-<!-- Add more fun facts or hobbies -->
+- I enjoy hiking and exploring new places
+- I'm a coffee enthusiast
 
 ## 💡 Current Learning
 
 - Java
 - HTML 5
-<!-- Add more learning topics if applicable -->
+- CSS3
+- JavaScript
 
 ## 👥 Collaboration
 
 - Looking to collaborate with Post Malone
-<!-- Add more collaboration interests or opportunities -->
+- Open to collaborating on interesting projects
 
 ## 🤝 Help Wanted
 
 - Looking for help with W3Schools
-<!-- Add more areas where you need help or guidance -->
+- Seeking mentorship in advanced Java programming
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+
