@@ -2,17 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and collaborating with talented individuals. Here you'll find information about me, my skills, and my projects.
 
-## 📝 About Me
-
-- 🥰 Taken by an amazing girl
-- 🔭 Currently working on my shoe shop
-- 🌱 Learning Java and HTML 5
-- 👯 Looking to collaborate with Post Malone
-- 🤔 Seeking help with W3Schools
-- 💬 Ask me about my family
-- 📫 Reach me at: [@sergiooramos_05](https://instagram.com/sergiooramos_05) on Instagram
-- 😇 Fun fact: I like playing video games
-
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
