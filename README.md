@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Kazuma275!
 
-Welcome to my GitHub profile! I'm passionate about coding, technology, and collaborating with talented individuals. Here you'll find information about me, my skills, and my projects.
-
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
